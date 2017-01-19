@@ -1,0 +1,77 @@
+Name
+
+Short Bio. What I Worked On.
+
+Describe Company
+
+Problem
+
+Our Process
+
+Visual Design
+
+Result
+
+
+
+
+Bedarra
+
+Luxurious holiday retreat on the Barrier Reef.
+
+
+
+Bedarra is a luxurious holiday retreat on the Barrier Reef in Australia. Their website serves as a way for potential visitors to learn more about the destination, plan their holiday in advance, and book various room packages. They pride themselves as being Australia's most unique resort.
+
+[IMAGE]
+
+The original website for Bedarra featured unusually information heirarchy, a look that wasn't as elegant or sophisticated as their target audience would be used to, and wasn't designed for converting visitors to the site into booking trips easily.
+
+[IMAGE]
+
+We started off by breaking down the essential parts of the site and grouping them together. We wanted to streamline the site from one in which you had to navigate to multiple pages to one where the navigation was a lot simpler and most of the important information we wanted to show was available on the first page. Most visitors to sites will often one view the first page before bouncing somewhere else. By having less pages, more information up front and the use of different colour highlights to show which information is important, we've made it easier for visitors to get the information they are looking for.
+
+[IMAGE]
+
+We also wanted to make the call to action clearer and have multiple points where visitors could engage with Bedarra. We did this by highlighting the book online button and placing it on every page. We also introduced the green chat button so people could interact and ask questions live with an operator. We placed this next to the newly featured 'make a reservation' bar. We want to make it as easy as possible for visitors to engage with us. We also added a subscription box so we could grab visitors emails if they weren't ready at that time to make a booking. This is a good way to get leads that you can cultivate at a later time.
+
+[IMAGE]
+
+We also changed the visual look of the site and made it more elegant and sophisticated with the usual of large magazine style imagery, the introduction of Pinterest style cards instead of just plain text links, and incorporating large amounts of white space. 
+
+[IMAGE]
+
+And finally, we totally cleaned up the online booking process. The previous solution was incredibly confusing for users and often involved trial and error. In our new process the steps are clearly outlined (1, 2, 3, 4), there is a box on the right which tells you what type of room you are after, there is an edit your stay function which gives you more power over your booking, and we've again, placed the green chat button in an easy to find place so if there are any issues in the conversion process there is someone to help the visitor. Overall its much clearer what you're getting, when you're getting it, and how much it costs. This instills trust in the visitor and makes them much more likely to convert.
+
+
+
+
+brought the navigation into line
+
+highlighted the book online button
+trimmed the navigation
+
+brought the value proposition right to the fore front
+introduced the chat button
+introduced the book bar featured prominantly up the top
+added iconogrophy for the features (ie eat, play, relax)
+introduced booking incentive
+changed it from a wildy hard to navigate site into a single page
+introduced subscription box
+introduced a lot more white space to make the site look more professional
+introduced better visual heirachy on the page
+
+made the layout of the room pages a lot cleaner
+multiple call to actions on every page (be it book online, find room, or subscribe to email)
+
+visual heirachy for the sustain pages
+cleaner look, easier to read
+breadcrumbs, cleaer navigation
+introduced accomodation box on these pages as thats the real goal
+extended sitemap on everypage = better seo
+
+book online page much cleaner
+process very clear. 1, 2, 3, 4 steps
+chat function
+edit your stay function
+much clearer what youre getting, when youre getting it, and how much it costs
